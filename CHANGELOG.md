@@ -1,5 +1,12 @@
 # terminal-react
 
+## 0.0.1
+
+### Patch Changes
+
+- e2a6c12: typo
+- c50f0c2: init
+
 ## 0.0.20
 
 ### Patch Changes

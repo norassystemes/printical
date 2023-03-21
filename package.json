@@ -1,7 +1,7 @@
 {
   "name": "printical",
   "license": "MIT",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple component to print or generate pdf of a react component",
   "private": false,
   "main": "dist/index.js",
