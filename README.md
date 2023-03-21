@@ -23,7 +23,7 @@ yarn add printical
 ## Usage
 
 ```ts
-import Printical from "printical";
+import { Printical } from "printical";
 
 const Demo = () => {
   return (
