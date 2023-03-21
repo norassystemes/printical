@@ -8,7 +8,7 @@ type TriggerArgs = {
 /**
  * https://ekoopmans.github.io/html2pdf.js/
  */
-type PDFOptions = {
+export type PDFOptions = {
   /**
    * PDF margin (in jsPDF units). Can be a single number, [vMargin, hMargin], or [top, left, bottom, right].
    */
@@ -122,4 +122,4 @@ type PDFOptions = {
     floatPrecision?: number;
   };
 };
-type TriggerFunction = (args: TriggerArgs) => JSX.Element;
+export type TriggerFunction = (args: TriggerArgs) => JSX.Element;

@@ -1,7 +1,7 @@
 import * as React from "react";
 import type { IReactToPrintProps } from "react-to-print";
 import { useReactToPrint } from "react-to-print";
-
+import type { PDFOptions, TriggerFunction } from "./types";
 const ID = "printical__print";
 
 interface PrinticalProps extends React.HtmlHTMLAttributes<HTMLDivElement> {
